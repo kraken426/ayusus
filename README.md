@@ -2,7 +2,7 @@
 <h3 align="left">A passionate blockchain developer also learning DSA from Delhi, India</h3>
 <h5>Currently a CSE specialization in Blockchain Technology student at Chandigarh University'25</h5>
 <hr/>
-<a href="https://app.daily.dev/ayusus"><img align="right" src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Ayush Srivastav's Dev Card"/></a>
+<a href="https://app.daily.dev/ayusus"><img align="right" src="https://github.com/kraken426/kraken426/blob/main/devcard.svg" width="400" alt="Ayush Srivastav's Dev Card"/></a>
 
 -  I’m currently learning **Solidity, Flutter & DSA**
 
