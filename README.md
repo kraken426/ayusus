@@ -4,13 +4,13 @@
 <hr/>
 <a href="https://app.daily.dev/ayusus"><img align="right" src="https://api.daily.dev/devcards/1cc6b0633fc1466baf72b32053af62fa.png?r=5lz" width="400" alt="Ayush Srivastav's Dev Card"/></a>
 
-- 🌱 I’m currently learning **Solidity, Flutter & DSA**
+-  I’m currently learning **Solidity, Flutter & DSA**
 
-- 💬 Ask me about **Game modding , Blockchain, DSA**
+-  Ask me about **Game modding , Blockchain, DSA**
 
-- 📫 How to reach me **ayush.del2002@gmail.com**
+-  How to reach me **ayush.del2002@gmail.com**
 
-- ⚡ I do Illustrations on adobe Illustrator as a hobby
+-  I do Illustrations on adobe Illustrator as a hobby
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
