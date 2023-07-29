@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ayush Srivastav</h1>
-<h3 align="left">A passionate blockchain developer also learning DSA from Delhi, India</h3>
+<h3 align="left">A passionate blockchain developer also learning DSA</h3>
 <h5>Currently a CSE specialization in Blockchain Technology student at Chandigarh University'25</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraken426&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ayush" /></p>
 <hr/>
